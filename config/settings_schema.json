@@ -31,6 +31,12 @@
         "id": "integrate_with_customer_accounts",
         "label": "Integrate with customer accounts",
         "info": " [Learn more](https://help.shopify.com/en/manual/customers/customer-accounts/new-customer-accounts)"
+      },
+      {
+        "type": "image_picker",
+        "id": "favicon",
+        "label": "Favicon image",
+        "info": "32 x 32px .png recommended"
       }
     ]
   }
