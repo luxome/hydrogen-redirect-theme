@@ -9,8 +9,9 @@
  */
 {
   "current": {
-    "storefront_hostname": "cblux-dev.myshopify.com",
+    "storefront_hostname": "luxome.com",
     "integrate_with_customer_accounts": true,
+    "favicon": "shopify://shop_images/2022_XO-Circle_Logo-BG_768x768_264a600e-cc19-4fc0-bf60-124aa1c04a5b.png",
     "content_for_index": []
   }
 }
